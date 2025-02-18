@@ -1,5 +1,5 @@
-# Powerbi
-# MARVEL MOVIES SUMMARY REPORT
+ 
+# POWER BI/MARVEL MOVIES SUMMARY REPORT
 
 Welcome to the Marvel Movies Summary Report, a dashboard developed by Marvel Studios, providing an insightful overview of various statistics and visualizations related to Marvel movies.
 
