@@ -29,4 +29,3 @@ This dashboard allows users to explore and answer questions such as:
 - What is the distribution of budgets and worldwide gross among different Marvel movies?
 - Which directors are associated with specific Marvel movies?
 
-Feel free to explore and gain valuable insights into the Marvel cinematic universe through this comprehensive report!
