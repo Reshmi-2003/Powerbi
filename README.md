@@ -28,6 +28,5 @@ This dashboard allows users to explore and answer questions such as:
 - How do different Marvel movies compare in terms of their Letterbox scores?
 - What is the distribution of budgets and worldwide gross among different Marvel movies?
 - Which directors are associated with specific Marvel movies?
-## Dataset used
--<a href="https://github.com/Reshmi-2003/Powerbi/blob/main/Marvel_Movies_Dataset.csv">
+
 
